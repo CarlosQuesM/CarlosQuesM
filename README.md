@@ -14,7 +14,7 @@ Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías pa
 
 ¿Quieres saber más sobre mí o ver mis proyectos? ¡No dudes en contactarme!
 
-@carlosquesadamesonero@gmail.com
+carlosquesadamesonero@gmail.com
 
 https://www.linkedin.com/in/carlos-qm-40a07634a/
 
