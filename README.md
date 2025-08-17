@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Carlos Quesada.
 
-<!--
-**CarlosQuesM/CarlosQuesM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de desarrollo web, apasionado por crear experiencias frontend atractivas y funcionales.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, PHP
+- **Bases de datos:** MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Actualmente aprendiendo
+Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías para crear proyectos impactantes.
+
+---
+
+¿Quieres saber más sobre mí o ver mis proyectos? ¡No dudes en contactarme!
+
+@carlosquesadamesonero@gmail.com
+
+https://www.linkedin.com/in/carlos-qm-40a07634a/
+
+<!-- Puedes agregar aquí tus redes sociales, portafolio, o cualquier detalle adicional :) -->
