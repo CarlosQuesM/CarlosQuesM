@@ -2,7 +2,7 @@
 
 Soy estudiante de desarrollo web, apasionado por crear experiencias frontend atractivas y funcionales.
 
-### 🚀 Tecnologías y herramientas
+###  Tecnologías y herramientas
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, PHP
 - **Bases de datos:** MongoDB, MySQL
