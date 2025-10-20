@@ -16,7 +16,7 @@ Soy estudiante de desarrollo web, apasionado por crear experiencias frontend atr
 -Tailwind CSS
 -Astro
 
-- ** Desarrollo Backend:**
+- **Desarrollo Backend:**
 -Node.js
 -Laravel
 - **Bases de datos:** MongoDB, MySQL
