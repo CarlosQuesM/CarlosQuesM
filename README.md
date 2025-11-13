@@ -36,6 +36,6 @@ Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías pa
 
 carlosquesadamesonero@gmail.com
 
-https://www.linkedin.com/in/carlos-qm-40a07634a/
+https://www.linkedin.com/in/carlosquesadames/
 
 <!-- Puedes agregar aquí tus redes sociales, portafolio, o cualquier detalle adicional :) -->
