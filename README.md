@@ -6,14 +6,11 @@ Soy estudiante de desarrollo web, apasionado por crear experiencias frontend atr
 - **Lenguajes:**
 -Java
 -JavaScript
--TypeScript
 -PHP
--Python
 
 - **Frontend:**
 -HTML5
 -CSS
--Tailwind CSS
 -Astro
 
 - **Desarrollo Backend:**
