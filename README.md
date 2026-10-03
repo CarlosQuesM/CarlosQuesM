@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Carlos Quesada.
+¡Hola! Soy Carlos Quesada.
 
-Soy estudiante de desarrollo web, apasionado por crear experiencias frontend atractivas y funcionales.
+Desarrollo web, apasionado por crear experiencias frontend atractivas y funcionales.
 
 ###  Tecnologías y herramientas
 - **Lenguajes:**
